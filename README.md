@@ -81,5 +81,37 @@ This is a product listing app that displays products and allows users to filter 
     <li>The API replies with only those products, which are then shown to the user.</li>
   </ul>
 
+  <h2 class="emoji">🖼️ What the User Sees on Screen</h2>
+
+  <h3>Structure of the Page:</h3>
+
+  <div class="layout-diagram">
+[ Category List ]      [ Product Grid ]
+[ smartphones     ]    [ iPhone 9       ]
+[ laptops         ]    [ MacBook Pro    ]
+[ fragrances      ]    [ Perfume A      ]
+                      [ Product B       ]
+                      [ ...            ]
+  </div>
+
+  <p>The category list appears on the left.</p>
+  <p>The products appear on the right in a grid.</p>
+
+  <p>Each product card is styled with:</p>
+  <ul>
+    <li>A shadow effect</li>
+    <li>An image at the top</li>
+    <li>The product title</li>
+    <li>The price</li>
+  </ul>
+
+  <h2 class="emoji">✅ Summary</h2>
+  <ul>
+    <li><strong>Main Purpose:</strong> Show a product catalog with category-based filtering.</li>
+    <li><strong>API Role:</strong> Supplies product data and category names.</li>
+    <li><strong>User Actions:</strong> Click categories to filter products.</li>
+    <li><strong>Visual Result:</strong> Clean two-column layout with product cards updating based on selected category.</li>
+  </ul>
+
 </body>
 </html>
