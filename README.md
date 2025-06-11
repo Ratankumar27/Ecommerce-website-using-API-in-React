@@ -86,11 +86,11 @@ This is a product listing app that displays products and allows users to filter 
   <h3>Structure of the Page:</h3>
 
   <div class="layout-diagram">
-[ Category List ]      [ Product Grid ]
-[ smartphones     ]    [ iPhone 9       ]
-[ laptops         ]    [ MacBook Pro    ]
-[ fragrances      ]    [ Perfume A      ]
-                      [ Product B       ]
+[ Category List ]      [ Product Grid ]<br>
+[ smartphones     ]    [ iPhone 9       ]<br>
+[ laptops         ]    [ MacBook Pro    ]<br>
+[ fragrances      ]    [ Perfume A      ]<br>
+                      [ Product B       ]<br>
                       [ ...            ]
   </div>
 
