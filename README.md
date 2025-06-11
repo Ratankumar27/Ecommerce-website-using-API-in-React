@@ -1,8 +1,9 @@
 # Ecommerce-website-using-API-in-React
-By fetching the data from API the e-commerce website is built. <br>
+By fetching the data from API the e-commerce website is built. And the main code of this project is in src/App.jsx<br>
 <br>
 This is a product listing app that displays products and allows users to filter them by category. It fetches data from a public API called DummyJSON, which provides fake e-commerce data (like product info, images, and categories).
 
+<img src="https://github.com/Ratankumar27/Ecommerce-website-using-API-in-React/blob/29a5799b1f426624acfad9bae7725736095040ee/Screenshot%202025-06-11%20181927.png"/>
 
 <!DOCTYPE html>
 <html lang="en">
